@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pokegame-react/static/css/main.6f67e792.css",
+    "main.js": "/pokegame-react/static/js/main.237d2f10.js",
+    "static/js/787.8db93df9.chunk.js": "/pokegame-react/static/js/787.8db93df9.chunk.js",
+    "index.html": "/pokegame-react/index.html",
+    "main.6f67e792.css.map": "/pokegame-react/static/css/main.6f67e792.css.map",
+    "main.237d2f10.js.map": "/pokegame-react/static/js/main.237d2f10.js.map",
+    "787.8db93df9.chunk.js.map": "/pokegame-react/static/js/787.8db93df9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f67e792.css",
+    "static/js/main.237d2f10.js"
+  ]
+}
